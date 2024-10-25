@@ -4,5 +4,6 @@
   "newFileFolderPath": "6 - Main Notes",
   "userIgnoreFilters": [
     "README.md"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
