@@ -15,5 +15,14 @@
       ],
       "key": "T"
     }
+  ],
+  "workspace:undo-close-pane": [],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

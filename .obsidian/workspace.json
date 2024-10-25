@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
+                "file": "1 - Rough Notes/202410251257.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Your Organization For The Conflicts You Want To Hear About"
+              "title": "202410251257"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
+                "file": "1 - Rough Notes/202410251257.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Your Organization For The Conflicts You Want To Hear About"
+              "title": "Backlinks for 202410251257"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
+                "file": "1 - Rough Notes/202410251257.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design Your Organization For The Conflicts You Want To Hear About"
+              "title": "Outgoing links from 202410251257"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md"
+                "file": "1 - Rough Notes/202410251257.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Your Organization For The Conflicts You Want To Hear About"
+              "title": "Outline of 202410251257"
             }
           }
         ]
@@ -165,11 +165,12 @@
   },
   "active": "a17a7efd4cb96edc",
   "lastOpenFiles": [
+    "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
+    "1 - Rough Notes/202410251257.md",
     "2 - Source Material/Imperialism (The Origins of Totalitarianism, Book 2).md",
     "2 - Source Material/Theory in Practice.md",
     "2 - Source Material/Totalitarianism (The Origins of Totalitarianism, Book 3).md",
     "2 - Source Material/Mrs Dalloway.md",
-    "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
     "README.md"
   ]
 }
