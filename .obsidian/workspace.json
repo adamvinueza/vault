@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b402fff64d4f73c6",
+        "id": "94fc37eb5a8978b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0c0b3e98ee35045b",
+            "id": "8eb305f5b4a8bfc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Antisemitism (The Origins of Totalitarianism, Part 1).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Antisemitism (The Origins of Totalitarianism, Part 1)"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Antisemitism (The Origins of Totalitarianism, Part 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Antisemitism (The Origins of Totalitarianism, Part 1)"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Antisemitism (The Origins of Totalitarianism, Part 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Antisemitism (The Origins of Totalitarianism, Part 1)"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2 - Source Material/Antisemitism (The Origins of Totalitarianism, Part 1).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Antisemitism (The Origins of Totalitarianism, Part 1)"
             }
           }
         ]
@@ -155,20 +163,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0c0b3e98ee35045b",
+  "active": "8eb305f5b4a8bfc9",
   "lastOpenFiles": [
+    "1 - Rough Notes/202410251430.md",
+    "5 - Templates/Rough note.md",
+    "5 - Templates/Main Note.md",
+    "1 - Rough Notes/202410251257.md",
     "1 - Rough Notes/202410251313.md",
+    "README.md",
+    "5 - Templates/Rough Note.md",
     "6 - Main Notes/[[tony.md",
     "2 - Source Material/The Man Who Freed Me From Cant.md",
     "3 - Tags/ta-nehisi coates.md",
     "3 - Tags/tony judt.md",
     "2 - Source Material/Design Your Organization For The Conflicts You Want To Hear About.md",
     "5 - Templates/Reference Note.md",
-    "1 - Rough Notes/202410251257.md",
     "2 - Source Material/Imperialism (The Origins of Totalitarianism, Book 2).md",
     "2 - Source Material/Theory in Practice.md",
     "2 - Source Material/Totalitarianism (The Origins of Totalitarianism, Book 3).md",
-    "2 - Source Material/Mrs Dalloway.md",
-    "README.md"
+    "2 - Source Material/Mrs Dalloway.md"
   ]
 }
